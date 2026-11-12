@@ -1,0 +1,1 @@
+Fruit Sort PWA. Una fruta por movimiento; elige caja de origen y destino. Capacidad 4. Objetivo: cuatro frutas iguales por caja. Subir los archivos a GitHub Pages (main/root), abrir HTTPS en Chrome Android e instalar. Tras primera carga, offline.
